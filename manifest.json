@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "AutoReloadPro",
+  "description": "Automatically refreshes the current tab at specified intervals.",
+  "version": "3.0.1",
+  "icons": {
+    "512": "icon-512.png",
+    "256": "icon-256.png",
+    "192": "icon-192.png",
+    "128": "icon-128.png",
+    "96": "icon-96.png",
+    "72": "icon-72.png",
+    "64": "icon-64.png",
+    "48": "icon-48.png",
+    "32": "icon-32.png",
+    "16": "icon-16.png"
+  },
+  "author": "sinjith", 
+  "action": {
+    "default_icon": "icon-512.png",
+    "default_popup": "popup.html"
+  },
+  "default_locale": "en",
+  "background": {
+    "service_worker": "js/background.js",
+    "type": "module"
+  },
+  "permissions": ["activeTab", "scripting", "storage"],
+  "offline_enabled": true,
+  "homepage_url": "https://github.com/sinjithms"
+}
