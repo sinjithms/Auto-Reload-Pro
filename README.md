@@ -19,7 +19,7 @@ AutoReloadPro is a Chrome extension that automates the process of refreshing web
 
 ## Installation
 
-You can install AutoReloadPro directly from the [Chrome Web Store](https://chrome.google.com/webstore/detail/autoreloadpro/your-extension-id-here).
+You can install AutoReloadPro directly from the [Chrome Web Store](https://chrome.google.com/webstore/detail/autoreloadpro/fbmellleodncldldfelkkjggcpfhdbei).
 
 ## Donate
 
